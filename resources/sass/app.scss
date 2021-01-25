@@ -1,0 +1,20 @@
+.media {
+    display: flex;
+    height: 100%;
+    width: 560px;
+    flex-direction: column;
+    align-content: center;
+    border: solid 1px #aed9d9;
+    border-radius: 0.6rem;
+    padding: 16px;
+
+    p {
+        display: flex;
+        flex-direction: column;
+    }
+}
+.container-body-news {
+    display: flex;
+    width: 1100px;
+    flex-direction: column;
+}
